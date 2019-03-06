@@ -14,9 +14,9 @@ export default {
         return{
             title: 'All Books',
             books: [
-                {title: "It's a book", author: 'Seusaphone'},
-                {title: "Wild things are here", author: 'Elaine Bookerstaff'},
-                {title: "Shut up and Take My Money", author: 'Phillip Frye'},
+                {title: 'Self-Reliance', author: 'Ralph Waldo Emerson'},
+                {title: 'American Gods', author: 'Neil Gaiman'},
+                {title: 'Amusing Ourselves to Death', author: 'Neil Postman'},
             ]
         }
     }
